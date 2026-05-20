@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="./assets/logo.png" width="180px">
+    <img src="./assets/logo.png" width="350px" alt="Unixsys Logo">
 </h1>
 
 <h1 align="center">

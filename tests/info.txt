@@ -1,0 +1,8 @@
+Write mv command
+
+TO IMPLEMENT `ps` command
+	- Open directory /proc
+	- Open all sub-directories whose name is integer use isdigit()
+	- Inside that directory open `comm` file
+	- Display the name inside that file
+

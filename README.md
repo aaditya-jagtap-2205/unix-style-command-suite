@@ -16,9 +16,9 @@ Unix-Style CLI Command Suite
   <img src="https://img.shields.io/badge/system-POSIX-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/topic-System%20Calls-darkred?style=flat-square" />
   <img src="https://img.shields.io/badge/interface-CLI-black?style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/BitManipulator-cyber/YOUR_REPO?style=flat-square" />
-  <img src="https://img.shields.io/github/repo-size/BitManipulator-cyber/YOUR_REPO?style=flat-square" />
-  <img src="https://img.shields.io/github/languages/top/BitManipulator-cyber/YOUR_REPO?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/aaditya-jagtap-2205/unix-style-command-suite?style=flat-square" />
+  <img src="https://img.shields.io/github/repo-size/aaditya-jagtap-2205/unix-style-command-suite?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/top/aaditya-jagtap-2205/unix-style-command-suite?style=flat-square" />
 </h4>
 
 ---
